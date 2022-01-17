@@ -1,2 +1,2 @@
 # favicon
-favicon tag information
+favicon tag information like overall tag information
