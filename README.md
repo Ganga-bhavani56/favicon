@@ -1,0 +1,2 @@
+# favicon
+favicon tag information
